@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.title {
+  background-color: aqua;
+  text-align: center;
+}
+
+img {
+  display: flex;
+  justify-content: center;
+}
